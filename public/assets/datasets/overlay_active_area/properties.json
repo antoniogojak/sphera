@@ -1,0 +1,56 @@
+{
+    "id": 1,
+    "type": "SingleTileImageryProvider",
+	
+    "category": "Sunce",
+    "subCategory": null,
+	
+    "title": "Aktivno područje",
+    "subtitle": null,
+
+    "description": "<p>Aktivno područje je predio jačeg magnetskog polja, sastavljeno od niza svijetlih petlji u Sunčevoj atmosferi, a iznad Sunčevih pjega na površini Sunca. To su također područja izrazite Sunčeve aktivnosti u kojima se često opažaju Sunčevi bljeskovi. Sunčevi bljeskovi se vide kao iznenadne, brze i intenzivne promjene svijetlosti (bljeskovi), a popraćene su zračenjem kompletnog elektromagnetskog spektra (svih valnih duljina). Često je nakon njih vidljivo stvaranje serije svijetlih petlji na površini Sunca. Nastaju u predjelima jačeg magnetskog polja (aktivna područja) i češće su pri maksimumu sunčevog ciklusa. To je zato jer energija koja ih pokreće dolazi od magnetskog polja.</p><p>Video prikazuje Sunčev bljesak i popratnu erupciju malog filamenta 2. studenog 2023. vidljive u dijelu spektra valne duljine 304 angstrema (lijevo gore), 193 angstrema (lijevo dolje) i 131 angstrem (desno dolje ) snimljeno satelitom Solar Dynamics Observatory te 6563 angstrema snimljeno teleskopom sa Zemlje (desno gore).</p><div style=\"text-align: center;\"> <video controls loop width=\"90%\" style=\"max-width: 800px;\"> <source src=\"./bljesak.mp4\" type=\"video/mp4\" /></video></div>",
+
+    "releaseDate": "2025-07-01",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+
+    "url": null,
+    "tileWidth": 2160,
+    "tileHeight": 1080,
+    "rectangle": [-180, -90, 180, 90],
+    "credits": {
+        "credit": "Courtesy of NASA/SDO and the AIA, EVE, and HMI science teams",
+        "showOnScreen": false
+    },
+    "ellipsoid": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": "./data.czml",
+
+    "legend": null,
+
+    "timelineSync": false,
+    "loopContent": null,
+	
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+	
+    "clock": {
+        "startTime": null,
+        "stopTime": null,
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "CLAMPED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1,
+    "type": "TileMapServiceImageryProvider",
+
+    "category": "Common",
+    "subCategory": null,
+
+    "title": "Natural Earth III",
+    "subtitle": null,
+
+    "description": "Natural Earth III is raster map data for creating illustrations and animations of our planet with a plausibly realistic appearance. Using the data requires 3D or mapping software. Legibility is a key feature. Compared to photographs of Earth taken from space, Natural Earth III offers brighter colors, fewer clouds over land areas, distinct environmental zones, 3D mountains, and continuous rivers.",
+
+    "releaseDate": "2008-06-19T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC0",
+	"sourceUrl": "https://www.shadedrelief.com/natural3/index.html",
+
+    "url": "./tiles",
+    "fileExtension": "png",
+    "credits": {
+        "credit": "Tom Patterson, www.shadedrelief.com",
+        "showOnScreen": false
+    },
+    "minimumLevel": 0,
+    "maximumLevel": 6,
+    "rectangle": null,
+    "tilingScheme": null,
+    "ellipsoid": null,
+    "tileWidth": 256,
+    "tileHeight": 256,
+    "flipXY": null,
+    "tileDiscardPolicy": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": true,
+    "loopContent": null,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": null,
+        "stopTime": null,
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "UNBOUNDED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": 1,
+    "type": "SingleTileImageryProvider",
+
+    "category": "Earth",
+    "subCategory": null,
+
+    "title": "Temperature Anomalies 2024",
+    "subtitle": null,
+
+    "description": "Earth&rsquo;s average surface temperature in 2024 was the warmest on record, according to an analysis led by NASA scientists. <br />Global temperatures in 2024 were 2.30 degrees Fahrenheit (1.28 degrees Celsius) above the agency&rsquo;s 20th-century baseline (1951-1980), which tops the record set in 2023. The new record comes after 15 consecutive months (June 2023 through August 2024) of monthly temperature records &mdash; an unprecedented <a class=\"link\" href=\"https://www.nasa.gov/earth/nasa-analysis-confirms-a-year-of-monthly-temperature-records/\">heat streak</a>. <br /><br />NASA scientists further estimate Earth in 2024 was about 2.65 degrees Fahrenheit (1.47 degrees Celsius) warmer than the mid-19th century average (1850-1900). For more than half of 2024, average temperatures were more than 1.5 degrees Celsius above the baseline, and the annual average, with mathematical uncertainties, may have exceeded the level for the first time.<br /><br />NASA's <a class=\"link\" href=\"https://data.giss.nasa.gov/gistemp/\" target=\"_blank\">full dataset of global surface temperatures </a> as well as full details with code of how NASA scientists conducted the analysis, are publicly available from GISS. GISS is a NASA laboratory managed by the Earth Sciences Division of the agency's Goddard Space Flight Center in Greenbelt, Maryland. The laboratory is affiliated with Columbia University's Earth Institute and School of Engineering and Applied Science in New York.</p>\n<p>This color-coded map displays a progression of changing global surface temperature anomalies. Normal temperatures are shown in white. Higher than normal temperatures are shown in red and lower than normal temperatures are shown in blue. Normal temperatures are calculated over the 30 year baseline period 1951-1980. The maps are averages over a running 24 month window.",
+
+    "releaseDate": "2025-10-01T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/5450/",
+
+    "url": "./2024GISTEMP_SOS899.png",
+    "tileWidth": 4096,
+    "tileHeight": 2048,
+    "rectangle": [-180, -90, 180, 90],
+    "credits": {
+        "credit": "NASA's Scientific Visualization Studio. Data provided by Robert B. Schmunk (NASA/GSFC GISS)",
+        "showOnScreen": false
+    },
+    "ellipsoid": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": {
+        "path": "./SOS_GlobalTemperatures_cbar_1000px_R.webp",
+        "width": "84px",
+        "height": "100%",
+        "background": false
+    },
+
+    "timelineSync": null,
+    "loopContent": null,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": null,
+        "stopTime": null,
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "UNBOUNDED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

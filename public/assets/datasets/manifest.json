@@ -1,0 +1,15 @@
+{
+    "default": ["osm"],
+    "startup": [],
+    "layers": [
+		"graticule_30",
+		"natural_earth3",
+		"osm",
+		
+		"perpetual_ocean",
+		"temperature_anomalies_2024",
+		"copernicus_sea_temp",
+		"moon_evolution",
+		"moon_phases"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": 1,
+    "type": "WebMapTileServiceImageryProvider",
+
+    "category": "Earth",
+    "subCategory": null,
+
+    "title": "Sea Surface Temperature",
+    "subtitle": null,
+
+    "description": "<p>The sea surface is the boundary between the ocean and atmosphere. The sea surface temperature (SST) can be used to understand the flows of energy between the two and hence the role of the oceans in shaping the weather and climate, and vice versa. Records of SST, using observations made from ships, go back to the mid-19th century and are some of the longest instrumental records available for understanding the climate. Since the early 1980s, there have also been measurements from satellites and buoys.</p>\n<p>SST patterns influence key elements of the climate system, such as atmospheric circulation, rainfall patterns and tropical cyclones. The top few metres of the ocean can hold as much energy as the entire atmosphere, highlighting the importance of SSTs for climate monitoring. They also form a key part of the datasets used to estimate global temperature change. SST is also important for forecasting at a range of timescales, from hours to years ahead. Marine heatwaves, ocean fronts and regions of upwelling can all be monitored using measurements of SST.</p>",
+
+    "releaseDate": "2025-06-24T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+    "sourceUrl": "https://data.marine.copernicus.eu/product/SST_GLO_SST_L4_REP_OBSERVATIONS_010_024/description",
+
+    "url": "https://wmts.marine.copernicus.eu/teroWmts?STYLE=vectorStyle:solid,cmap:ice",
+    "format": "image/png",
+    "layer": "SST_GLO_SST_L4_REP_OBSERVATIONS_010_024/C3S-GLO-SST-L4-REP-OBS-SST_202506/analysed_st",
+    "style": "default",
+    "tileMatrixSetID": "EPSG:3857",
+    "tileMatrixLabels": null,
+    "clock": {
+        "startTime": "1982-01-01",
+        "stopTime": "2024-12-31",
+        "currentTime": null,
+        "multiplier": 14400,
+        "clockStep": null,
+        "clockRange": "LOOP_STOP",
+        "canAnimate": null,
+        "shouldAnimate": null
+    },
+    "times": {
+        "method": "fromIso8601",
+        "iso8601": "1982-01-01/2024-12-31/P1D",
+        "isStartIncluded": true,
+        "isStopIncluded": false,
+        "leadingInterval": true,
+        "trailingInterval": true,
+        "dataCallback": "dataCallback"
+    },
+    "dimensions": null,
+    "tileWidth": null,
+    "tileHeight": null,
+    "tilingScheme": null,
+    "rectangle": null,
+    "minimumLevel": null,
+    "maximumLevel": 10,
+    "ellipsoid": null,
+    "credits": {
+        "credit": "Generated using E.U. Copernicus Marine Service Information; <a href=\"https://doi.org/10.48670/moi-00169\" target=\"_blank\">https://doi.org/10.48670/moi-00169</a>",
+        "showOnScreen": false
+    },
+    "subdomains": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": {
+        "path": "./legend.json",
+        "width": "36px",
+        "height": "50%",
+        "background": true
+    },
+
+    "timelineSync": true,
+    "loopContent": null,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true
+}

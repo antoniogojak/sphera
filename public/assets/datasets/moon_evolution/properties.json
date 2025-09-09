@@ -1,0 +1,59 @@
+{
+    "id": 1,
+    "type": "ImageMaterialProperty",
+
+    "category": "Moon",
+    "subCategory": null,
+
+    "title": "Evolution of the Moon",
+    "subtitle": null,
+
+    "description": "NASA's Goddard Space Flight Center and the Lunar Reconnaissance Orbiter present to you a short, narrated Science On a Sphere show depicting the evolution of our moon&mdash;all the way from when it was just a ball of magma orbiting the Earth. See the large impacts that formed the basins of the moon, watch as lava seeps out and cools to form the dark-colored maria, and observe how thousands of crater impacts made the moon look like it does today!",
+
+    "releaseDate": "2011-10-12T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+	"sourceUrl": "https://svs.gsfc.nasa.gov/10843/",
+
+    "url": "./evol_moon_960x540.webmhd.webm",
+    "repeat": [1, 1],
+    "rectangle": [-180, -90, 180, 90],
+    "color": null,
+    "transparent": null,
+    "playbackRate": 1.0,
+    "muted": false,
+    "credits": {
+        "credit": "NASA/Goddard Space Flight Center",
+        "showOnScreen": false
+    },
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": true,
+    "loopContent": true,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": "2011-10-12T00:00:00.000Z",
+        "stopTime": "2011-10-12T00:02:37.000Z",
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "LOOP_STOP",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

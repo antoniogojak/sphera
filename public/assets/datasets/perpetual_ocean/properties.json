@@ -1,0 +1,64 @@
+{
+    "id": 1,
+    "type": "ImageMaterialProperty",
+
+    "category": "Earth",
+    "subCategory": null,
+
+    "title": "Perpetual Ocean",
+    "subtitle": "Ocean currents around the world",
+
+    "description": "This visualization shows ocean currents around the world. NASA&rsquo;s ocean model, Estimating the Circulation and Climate of the Ocean (<a class=\"link\" href=\"https://www.ecco-group.org\" target=\"_blank\">ECCO</a>), was used to depict the currents. The ECCO ocean circulation model incorporates observations from spacecraft, buoys, and other in situ measurements to ensure accuracy. ECCO is a joint project between NASA/JPL, MIT, and UT Austin. The model output presented here is from ECCO-2 and covers the years 2021&ndash;2023.</p>\n<p>In 2011, NASA created a visualization called Perpetual Ocean using ECCO2. While Perpetual Ocean remains highly popular, it only depicts ocean currents at the surface. In this updated visualization, the ocean&rsquo;s three-dimensional velocity field is utilized to highlight some of the strongest ocean currents. Virtual particles are released into the ocean and move according to the three-dimensional velocity field. Each particle leaves a trail to indicate its direction of movement. Particles initialized above 600 meters in depth have a trail length of 3 days, whereas those initialized below 600 meters have a trail length of 6 days. These particle trails reveal the strongest currents in the world, which are concentrated in narrow belts on the western side of each ocean basin, known as western boundary currents. The looping meanders of these boundary currents sometimes form turbulent rings (eddies) that can trap cold or warm water in their centers before detaching from the main flow.",
+
+    "releaseDate": "2025-05-30T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+	"sourceUrl": "https://svs.gsfc.nasa.gov/5479/",
+
+    "url": "./perpetual_ocean2_EQUIREC_072_FINAL15_SOS_beauty_1024p30.mp4",
+    "repeat": [1, 1],
+    "rectangle": [-180, -90, 180, 90],
+    "color": null,
+    "transparent": null,
+    "playbackRate": 1.0,
+    "muted": true,
+    "credits": {
+        "credit": " NASA's Scientific Visualization Studio",
+        "showOnScreen": false
+    },
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": {
+        "path": "./SOS_OceanFlows_cbar_1000px_R.webp",
+        "width": "84px",
+        "height": "100%",
+        "background": false
+    },
+
+    "timelineSync": true,
+    "loopContent": true,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": "2025-05-30T00:00:00.000Z",
+        "stopTime": "2025-05-30T00:02:00.000Z",
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "LOOP_STOP",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

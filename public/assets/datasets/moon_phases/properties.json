@@ -1,0 +1,59 @@
+{
+    "id": 1,
+    "type": "ImageMaterialProperty",
+
+    "category": "Moon",
+    "subCategory": null,
+
+    "title": "Moon Phases",
+    "subtitle": null,
+
+    "description": "The most visible change in the appearance of the Moon is its monthly cycle of phases. Every 29.5 days, the Moon changes from a thin crescent low in the western sky in early evening, to a full disk that rises at sunset and is up all night, back to a thin crescent rising just before sunrise. The Moon's phases are caused by its orbit around the Earth. As the Moon circles us, different parts of it face the Sun. When the side of the Moon facing the Earth is sunlit, we see a full Moon. When the Sun is up on the far side of the Moon, we see a thin crescent, or nothing at all.<br /><br />This animation shows the sunlit and shadowed portions of the Moon over the course of a month. The video can loop continuously. Viewers on all sides of the sphere see a full progression of lunar phases like those visible from Earth. Viewers facing the near side of the Moon will also see Earthshine, light reflected from the Earth that faintly illuminates the night side of the crescent Moon.<br /><br />Amateur astronomers pay particular attention to features near the terminator, the line dividing day and night on the Moon. Long shadows and high contrast near the terminator bring out details in the terrain that are hard to see at other times. The animation uses elevation data from Lunar Reconnaissance Orbiter's laser altimeter to recreate this sense of heightened detail near the terminator.",
+
+    "releaseDate": "2018-07-31T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+	"sourceUrl": "https://svs.gsfc.nasa.gov/4675/",
+
+    "url": "./sos_phases_512p30.webm",
+    "repeat": [1, 1],
+    "rectangle": [-180, -90, 180, 90],
+    "color": null,
+    "transparent": null,
+    "playbackRate": 1.0,
+    "muted": true,
+    "credits": {
+        "credit": "NASA's Scientific Visualization Studio",
+        "showOnScreen": false
+    },
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": true,
+    "loopContent": true,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": "2018-07-31T00:00:00.000Z",
+        "stopTime": "2018-07-31T00:00:24.000Z",
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "LOOP_STOP",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

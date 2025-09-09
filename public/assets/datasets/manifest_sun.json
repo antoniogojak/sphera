@@ -1,0 +1,15 @@
+{
+    "default": ["AIA_304"],
+    "startup": [],
+    "layers": [
+		"geografska_mreza_30",
+		"sol_scale",
+		
+		"overlay_filament_area",
+		"overlay_active_area",
+		"AIA_171",
+		"AIA_193",
+		"AIA_304",
+		"AIA_171-193-304"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1,
+    "type": "GeoJsonDataSource",
+
+    "category": "Common",
+    "subCategory": null,
+
+    "title": "Graticule",
+    "subtitle": "Latitude and longitude lines at 30° intervals",
+
+    "description": "Displays a graticule with parallels and meridians spaced at 30° intervals.",
+
+    "releaseDate": "2025-09-01T00:00:00.000Z",
+    "updateDate": null,
+    "copyrightLicense": "CC0",
+	"sourceUrl": null,
+
+    "url": "./grid_30_split_1.geojson",
+    "sourceUri": null,
+    "describe": null,
+    "markerSize": null,
+    "markerSymbol": null,
+    "markerColor": null,
+    "stroke": "#dee2e6",
+    "strokeWidth": 0.5,
+    "fill": null,
+    "clampToGround": false,
+    "credits": {
+        "credit": "None",
+        "showOnScreen": false
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": false,
+    "loopContent": null,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": null,
+        "stopTime": null,
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "UNBOUNDED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

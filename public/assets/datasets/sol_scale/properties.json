@@ -1,0 +1,56 @@
+{
+    "id": 5,
+    "type": "SingleTileImageryProvider",
+	
+    "category": "Pomoćno",
+    "subCategory": null,
+	
+    "title": "Omjeri planeta i Sunca",
+    "subtitle": null,
+
+    "description": "<p>Sloj prikazuje planete Sunčevog sustava u omjerima prema veličini Sunca. Veličine su točne u odnosu na Sunce, ali razmaci među planetima nisu u mjerilu.</p>",
+
+    "releaseDate": "2025-07-01",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+
+    "url": "./sol_scale_90.webp",
+    "tileWidth": 4096,
+    "tileHeight": 2048,
+    "rectangle": [-180, -90, 180, 90],
+    "credits": {
+        "credit": "Courtesy of NASA",
+        "showOnScreen": false
+    },
+    "ellipsoid": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": false,
+    "loopContent": null,
+	
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+	
+    "clock": {
+        "startTime": null,
+        "stopTime": null,
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "CLAMPED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

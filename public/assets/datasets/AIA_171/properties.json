@@ -1,0 +1,56 @@
+{
+    "id": 1,
+    "type": "SingleTileImageryProvider",
+	
+    "category": "Sunce",
+    "subCategory": null,
+	
+    "title": "AIA 171",
+    "subtitle": "Valna duljina 17.1 nm",
+
+    "description": "<p>Sloj prikazuje sinoptičku kartu Sunčeve atmosfere od 28. listopada 2023. do 23. studenog 2023. u ultraljubičastom dijelu spektra valne duljine 171 angstrema.</p>",
+
+    "releaseDate": "2025-07-01",
+    "updateDate": null,
+    "copyrightLicense": "CC BY",
+
+    "url": "./CR2277_AIA0171_90.webp",
+    "tileWidth": 2160,
+    "tileHeight": 1080,
+    "rectangle": [-180, -90, 180, 90],
+    "credits": {
+        "credit": "Courtesy of NASA/SDO and the AIA, EVE, and HMI science teams",
+        "showOnScreen": false
+    },
+    "ellipsoid": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": true,
+    "loopContent": null,
+	
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+	
+    "clock": {
+        "startTime": "2023-10-28T07:29:22.000Z",
+        "stopTime": "2023-11-24T14:49:46.000Z",
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "CLAMPED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1,
+    "type": "UrlTemplateImageryProvider",
+
+    "category": "Common",
+    "subCategory": null,
+
+    "title": "Open Street Map",
+    "subtitle": null,
+
+    "description": "OpenStreetMap provides open map data for thousands of websites, mobile apps, and hardware devices. OpenStreetMap is built by a community of people like you who contribute and maintain mapping data about roads, trails, cafés, railway stations, and much more, all over the world. ",
+
+    "releaseDate": null,
+    "updateDate": null,
+    "copyrightLicense": "Open Data Commons Open Database License (ODbL)",
+	"sourceUrl": null,
+
+    "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "pickFeaturesUrl": null,
+    "urlSchemeZeroPadding": null,
+    "subdomains": null,
+    "credits": {
+        "credit": "Map data from <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a>",
+        "showOnScreen": false
+    },
+    "minimumLevel": null,
+    "maximumLevel": null,
+    "rectangle": null,
+    "tilingScheme": null,
+    "ellipsoid": null,
+    "tileWidth": null,
+    "tileHeight": null,
+    "hasAlphaChannel": null,
+    "getFeatureInfoFormats": null,
+    "enablePickFeatures": null,
+    "tileDiscardPolicy": null,
+    "customTags": null,
+
+    "colorProperties": {
+        "brightness": 1,
+        "contrast": 1,
+        "gamma": 1,
+        "hue": 0,
+        "alpha": 1,
+        "saturation": 1
+    },
+
+    "czml": null,
+
+    "legend": null,
+
+    "timelineSync": true,
+    "loopContent": null,
+
+    "timelineBar": true,
+    "timelineAnimationKnob": true,
+
+    "clock": {
+        "startTime": null,
+        "stopTime": null,
+        "currentTime": null,
+        "multiplier": 1,
+        "clockStep": null,
+        "clockRange": "UNBOUNDED",
+        "canAnimate": null,
+        "shouldAnimate": null
+    }
+}
