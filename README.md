@@ -23,7 +23,13 @@ Sphera is a web application built using React, TypeScript, and Vite, leveraging 
 - [Important Links](#important-links)
 - [Footer](#footer)
 
+## Screenshots
 
+![alt text](https://github.com/antoniogojak/sphera/blob/master/Screenshots/Desktop Screenshot 2025.08.23 - 12.34.33.61.jpg?raw=true)
+
+![alt text](https://github.com/antoniogojak/sphera/blob/master/Screenshots/Desktop Screenshot 2025.08.23 - 12.35.49.88.jpg?raw=true)
+
+![alt text](https://github.com/antoniogojak/sphera/blob/master/Screenshots/Desktop Screenshot 2025.08.23 - 12.45.08.13.jpg?raw=true)
 
 ## Features
 - **3D Globe Visualization:** Uses Cesium to render a 3D globe, allowing users to explore geographic data. 🌎
